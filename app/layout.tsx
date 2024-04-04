@@ -15,7 +15,7 @@ export const metadata: Metadata = {
     name: 'SkaiLord',
   },
   icons: {
-    icon: '/logo.ico',
+    icon: '/icon.ico',
   },
 
   description:

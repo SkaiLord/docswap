@@ -25,7 +25,7 @@ export default function Navbar({}): any {
           height={50}
           width={50}
         />
-        DocuSwap
+        DocSwap
       </Link>
       <div className="gap-1 md:gap-2 lg:gap-4 hidden md:flex">
         <Button variant="ghost" className="font-semibold text-xl">
