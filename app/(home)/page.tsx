@@ -4,7 +4,7 @@ import Image from 'next/image';
 export default function Home() {
   return (
     <main className="pt-32 min-h-screen lg:pt-36 2xl:pt-44 container max-w-4xl lg:max-w-6xl 2xl:max-w-7xl">
-      <div className="space-y-16 pb-8">
+      <div className="md:space-y-16 space-y-8 md:pb-16 pb-8">
         {/* Title + Desc */}
         <div className="space-y-6">
           <h1 className="text-3xl md:text-5xl font-medium text-center">
