@@ -2,10 +2,10 @@ export default function About() {
   return (
     <div className="space-y-12 text-md md:text-lg text-gray-500 pb-4 md:pb-8 pt-32 min-h-screen lg:pt-36 2xl:pt-44 container max-w-4xl lg:max-w-6xl 2xl:max-w-7xl">
       <p>
-        Introducing DocSwap, the ultimate multimedia conversion powerhouse that
-        empowers you to transform images, audio files, and videos with
-        unprecedented freedom, all at absolutely no cost! Say goodbye to
-        limitations and hello to limitless creative possibilities.
+        Unleash your creativity with DocSwap - the ultimate online tool for
+        unlimited and free multimedia conversion. Transform images, audio, and
+        videos effortlessly, without restrictions. Don&apos;t wait any longer -
+        start converting now and elevate your content to new heights!
       </p>
       <div className="space-y-2">
         <h2 className="text-xl md:text-2xl font-medium text-gray-700">
