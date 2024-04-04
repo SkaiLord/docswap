@@ -1,3 +1,4 @@
+<!-- Project readme created by SkaiLord. You can use this template with proper credit -->
 <a name="readme-top"></a>
 
 <!-- PROJECT SHIELDS -->
@@ -89,10 +90,10 @@ Don't let limitations hinder your productivity. Unlock the endless possibilities
 ### Built With
 
 * [![Next][Next.js]][Next-url]
-* [![React][React.js]][React-url]
 * [![Tailwind Css][Tailwind]][Tailwind-url]
 * [![Shadcn/ui][Shadcn]][Shadcn-url]
 * [![FFmpeg][FFmpeg]][FFmpeg-url]
+* [![Wasm][Wasm]][Wasm-url]
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -145,10 +146,14 @@ _For more examples, please refer to the [Documentation](https://example.com)_
 <!-- ROADMAP -->
 ## Roadmap
 
-- [ ] Feature 1
-- [ ] Feature 2
-- [ ] Feature 3
-    - [ ] Nested Feature
+- [ ] Simple UI
+- [ ] Transfer support for :
+  - [x] Images
+  - [x] Video files
+  - [x] Audio files
+  - [ ] Documents (PDF)
+  - [ ] Word, excel, ppt, etc
+- [ ] Multi-lingual 
 
 See the [open issues](https://github.com/SkaiLord/docswap/issues) for a full list of proposed features (and known issues).
 
@@ -177,7 +182,7 @@ Don't forget to give the project a star! Thanks again!
 <!-- RESHARING -->
 ## Note on re-sharing
 
-I have been refining the project using 7+ years of my learnings. While I appreciate the beauty of open source, due credits to the project will be appreciated if you plan to re-share the template. Copyright headers with author name should be included under the forked versions as well. Happy coding :)
+I have been refining the project using 2+ years of my learnings. While I appreciate the beauty of open source, due credits to the project will be appreciated if you plan to re-share the template. Copyright headers with author name should be included under the forked versions as well. Happy coding 😄
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -195,7 +200,7 @@ Distributed under the MIT License. See `LICENSE.txt` for more information.
 <!-- CONTACT -->
 ## Contact
 
-Your Name - [@twitter_handle](https://twitter.com/SkaiLord007) - skailord007@gmail.com
+Your Name - [@twitter_handle](https://x.com/SkaiLord007) - skailord007@gmail.com
 
 Project Link: [https://github.com/SkaiLord/docswap](https://github.com/SkaiLord/docswap)
 
@@ -240,5 +245,7 @@ Project Link: [https://github.com/SkaiLord/docswap](https://github.com/SkaiLord/
 [Tailwind-url]: https://tailwindcss.com/
 [FFmpeg]: https://img.shields.io/badge/FFmpeg-007808?style=for-the-badge&logo=ffmpeg&logoColor=white
 [FFmpeg-url]: https://ffmpegwasm.netlify.app/
-[Shadcn]: https://img.shields.io/badge/shadcn/ui%2F-000000?style=for-the-badge&logo=shadcn%2Fui&logoColor=white
+[Shadcn]: https://img.shields.io/badge/shadcn/ui-000000?style=for-the-badge&logo=shadcn%2Fui&logoColor=white
 [Shadcn-url]: https://ui.shadcn.com/
+[Wasm]: https://img.shields.io/badge/webassembly-654FF0?style=for-the-badge&logo=webassembly&logoColor=white
+[Wasm-url]: https://webassembly.org/
